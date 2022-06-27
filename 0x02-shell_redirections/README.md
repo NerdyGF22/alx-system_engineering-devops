@@ -15,3 +15,4 @@ another readme
 13 being unique -> list words
 14 find that word -> it must be in that line
 15. count that word -> dispaly lines with bin
+16. whats next -> root 3 lines after that
