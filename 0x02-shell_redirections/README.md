@@ -17,3 +17,4 @@ another readme
 15. count that word -> dispaly lines with bin
 16. whats next -> root 3 lines after that
 17. i hate bin -> don't contain bin
+18. letters only -> starting with a letter
