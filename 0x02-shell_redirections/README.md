@@ -11,3 +11,4 @@ another readme
 9. duplicates the last line of a file -> duplicates last line.
 10. No more javascript -> deletes regular files
 11. make directories count -> count directories   
+12. whats new -> 10 newest directories
