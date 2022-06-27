@@ -9,4 +9,5 @@ another readme
 7. good life to cut iron -> create a file
 8. save current state of directory -> ls content
 9. duplicates the last line of a file -> duplicates last line.
-10. No more javascript -> deletes regular files   
+10. No more javascript -> deletes regular files
+11. make directories count -> count directories   
