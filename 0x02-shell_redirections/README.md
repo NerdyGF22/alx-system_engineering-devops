@@ -8,4 +8,4 @@ another readme
 6. line #2 -> Display third line of file
 7. good life to cut iron -> create a file
 8. save current state of directory -> ls content
-9. duplicates the last line of a file -> duplicates last line  
+9. duplicates the last line of a file -> duplicates last line.   
