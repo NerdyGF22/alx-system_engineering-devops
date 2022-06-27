@@ -13,3 +13,4 @@ another readme
 11. make directories count -> count directories   
 12. whats new -> 10 newest directories.
 13 being unique -> list words
+14 find that word -> it must be in that line
