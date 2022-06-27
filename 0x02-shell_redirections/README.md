@@ -14,3 +14,4 @@ another readme
 12. whats new -> 10 newest directories.
 13 being unique -> list words
 14 find that word -> it must be in that line
+15. count that word -> dispaly lines with bin
