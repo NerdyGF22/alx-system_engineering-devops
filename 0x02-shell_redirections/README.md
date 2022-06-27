@@ -6,4 +6,5 @@ another readme
 4. last lines of file -> Display las lines of a file /etc/passwd
 5. first lines of file -> Display first lines of a file /etc/passwd
 6. line #2 -> Display third line of file
-7. good life to cut iron -> create a file 
+7. good life to cut iron -> create a file
+8. save current state of directory -> ls content 
