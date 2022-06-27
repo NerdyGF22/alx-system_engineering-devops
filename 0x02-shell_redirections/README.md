@@ -1,5 +1,5 @@
 another readme
-
+0. Hello World -> print
 
 2. lets dispaly the file -> Display the content of the etc/passwd file
 3.what about 2? -> Display content of /etc/passwd and /etc/hosts
