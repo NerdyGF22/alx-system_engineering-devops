@@ -20,3 +20,4 @@ another readme
 18. letters only -> starting with a letter
 21. reverse -> write script in reverse
 22. dj cut killer -> sorted by users
+19. A to Z -> replace characters
