@@ -22,3 +22,4 @@ another readme
 22. dj cut killer -> sorted by users
 19. A to Z -> replace characters
 23. Empty caskets -> file empty directories
+25 ten thousand -> gif extensions
