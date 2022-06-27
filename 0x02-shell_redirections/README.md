@@ -21,3 +21,4 @@ another readme
 21. reverse -> write script in reverse
 22. dj cut killer -> sorted by users
 19. A to Z -> replace characters
+23. Empty caskets -> file empty directories
