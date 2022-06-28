@@ -9,4 +9,5 @@
 8. true knowledge -> addition of 128
 9. divide and rule -> power and divide
 10. power of love -> 10 love
-11. binary to decimal -> binary  
+11. binary to decimal -> binary
+12. combination -> all possible combinations for two letters except oo  
