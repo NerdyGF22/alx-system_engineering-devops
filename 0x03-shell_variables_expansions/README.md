@@ -8,4 +8,5 @@
 7- global variable -> script that creates global var
 8. true knowledge -> addition of 128
 9. divide and rule -> power and divide
-10. power of love -> 10 love  
+10. power of love -> 10 love
+11. binary to decimal -> binary  
