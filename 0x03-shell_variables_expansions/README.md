@@ -7,4 +7,5 @@
 6-create local variables -> make local variables
 7- global variable -> script that creates global var
 8. true knowledge -> addition of 128
-9. divide and rule -> power and divide  
+9. divide and rule -> power and divide
+10. power of love -> 10 love  
