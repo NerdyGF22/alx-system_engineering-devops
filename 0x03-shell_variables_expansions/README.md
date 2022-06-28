@@ -11,4 +11,5 @@
 10. power of love -> 10 love
 11. binary to decimal -> binary
 12. combination -> all possible combinations for two letters except oo
-13. floats -> print 2 decimals and end in 2 lines  
+13. floats -> print 2 decimals and end in 2 lines
+  
