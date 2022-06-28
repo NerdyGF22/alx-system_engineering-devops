@@ -3,4 +3,4 @@
 2 -path -> add acyion to path
 3-path -> counting directories
 4-global_variables -> get them
- 
+5- local variables -> list local and env variables  
