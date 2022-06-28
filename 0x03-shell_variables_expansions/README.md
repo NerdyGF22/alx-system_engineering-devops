@@ -1,4 +1,6 @@
 0 - alias -> ctreate a script
 1-helllo _you -> scrpt that prints hello user
 2 -path -> add acyion to path
-3-path -> counting directories 
+3-path -> counting directories
+4-global_variables -> get them
+ 
