@@ -6,4 +6,5 @@
 5- local variables -> list local and env variables
 6-create local variables -> make local variables
 7- global variable -> script that creates global var
-8. true knowledge -> addition of 128  
+8. true knowledge -> addition of 128
+9. divide and rule -> power and divide  
